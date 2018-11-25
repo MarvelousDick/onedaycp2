@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-copy-to-clipboard": "^5.0.1"
+  }
+}
